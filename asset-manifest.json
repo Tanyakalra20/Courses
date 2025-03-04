@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tanyakalra20/Top-Courses.git/static/css/main.0790e354.css",
+    "main.js": "/Tanyakalra20/Top-Courses.git/static/js/main.d93df481.js",
+    "index.html": "/Tanyakalra20/Top-Courses.git/index.html",
+    "main.0790e354.css.map": "/Tanyakalra20/Top-Courses.git/static/css/main.0790e354.css.map",
+    "main.d93df481.js.map": "/Tanyakalra20/Top-Courses.git/static/js/main.d93df481.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0790e354.css",
+    "static/js/main.d93df481.js"
+  ]
+}
